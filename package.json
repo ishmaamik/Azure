@@ -2,13 +2,22 @@
   "name": "mern-azure-app",
   "version": "1.0.0",
   "description": "",
+  "keywords": [],
+  "homepage": "https://github.com/ishmaamik/Azure#readme",
+  "bugs": {
+    "url": "https://github.com/ishmaamik/Azure/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ishmaamik/Azure.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
   "main": "index.js",
   "scripts": {
     "start": "npm start"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
   "dependencies": {
     "cors": "^2.8.5",
     "dotenv": "^16.0.3",
